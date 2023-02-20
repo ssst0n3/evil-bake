@@ -1,4 +1,4 @@
-target "release" {
+target "default" {
     target = "release"
     output = ["/out"]
 }
